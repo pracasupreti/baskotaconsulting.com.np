@@ -493,3 +493,5 @@ $(window).on('load', function() {
 });
 
 
+// copyright year 
+document.getElementById("year").innerHTML=new Date().getFullYear();
